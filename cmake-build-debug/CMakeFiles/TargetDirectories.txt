@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/Teles/LESI/Laboratorios de Informatica/LIWORK/cmake-build-debug/CMakeFiles/LIWORK.dir
+C:/Users/User/Desktop/Teles/LESI/Laboratorios de Informatica/LIWORK/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Teles/LESI/Laboratorios de Informatica/LIWORK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
